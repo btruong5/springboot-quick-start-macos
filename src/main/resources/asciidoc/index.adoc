@@ -1,0 +1,25 @@
+= Hello World Service API Guide
+:doctype: book
+:nofooter:
+
+++++
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+++++
+
+[[hello-world]]
+== Hello World
+
+A `GET` request will return a greeting.
+
+=== Request parameters
+
+[cols="20,80"]
+include::{snippets}/helloWorld/request-parameters.adoc[]
+
+=== Example request
+
+include::{snippets}/helloWorld/curl-request.adoc[]
+
+=== Example response
+
+include::{snippets}/helloWorld/http-response.adoc[]
