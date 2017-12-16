@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springboot-quick-start-macos.iml" filepath="$PROJECT_DIR$/springboot-quick-start-macos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springboot-quick-start-macos_main.iml" filepath="$PROJECT_DIR$/.idea/modules/springboot-quick-start-macos_main.iml" group="springboot-quick-start-macos" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/springboot-quick-start-macos_test.iml" filepath="$PROJECT_DIR$/.idea/modules/springboot-quick-start-macos_test.iml" group="springboot-quick-start-macos" />
+    </modules>
+  </component>
+</project>
